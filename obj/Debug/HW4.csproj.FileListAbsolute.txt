@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\admin\source\repos\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\admin\source\repos\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\admin\source\repos\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\admin\source\repos\HW4\HW4\obj\Debug\HW4.pdb
